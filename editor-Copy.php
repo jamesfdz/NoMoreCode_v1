@@ -476,7 +476,7 @@
             <div class="container"></div>
         </div>
 
-        <div ng-include="'components/modals.html'"></div>
+        <div ng-include="'components/modals.php'"></div>
 
         <div ng-include="'components/contextMenu.html'"></div>
     
